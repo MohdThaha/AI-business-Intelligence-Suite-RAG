@@ -1,0 +1,5 @@
+{
+  "name": "AI Business Intelligence Suite",
+  "description": "An AI-powered business intelligence suite that uses a RAG-based AI assistant to deliver contextual analytics. Users can ask natural language questions and receive insights, key metrics, and data visualizations.",
+  "requestFramePermissions": []
+}
